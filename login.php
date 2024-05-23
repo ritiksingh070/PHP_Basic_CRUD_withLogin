@@ -18,6 +18,7 @@
 
     <section class="section">
         <?php include("include/alert.php") ?>
+        <?php ?>
         <h2>Login Form</h2>
 
         <form action="login.php" method="post">
